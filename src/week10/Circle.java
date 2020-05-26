@@ -23,7 +23,6 @@ public class Circle {
 		donut.name = "자바도넛";
 		area = donut.getArea();
 		System.out.println(donut.name+"의 면적은 "+area);
-		System.out.println("또 수정...");
 	}
 	
 }
