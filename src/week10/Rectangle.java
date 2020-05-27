@@ -29,4 +29,18 @@ public class Rectangle {
 		}
 		return result;
 	}
+//	public boolean contains(Rectangle r) { //교수님 방법
+//		boolean result = false;
+//		
+//		int x1 = r.x;
+//		int x2 = r.x+r.width;
+//		int y1 = r.y;
+//		int y2 = r.y + r.height;
+//		
+//		if(x1>=x && x<=(x+width) && y1 >= y && (y1<=y+height) 
+//				&& (x2>=x) && (x2<=x+width) && y2>=y && (y2<=y+height)) {
+//			result = true;
+//		}
+//		return result;
+//	}
 }

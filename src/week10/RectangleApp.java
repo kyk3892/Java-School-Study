@@ -14,6 +14,8 @@ public class RectangleApp {
 		if(t.contains(s,t)) {
 			System.out.println("t는 s를 포함합니다.");
 		}
+//		if(t.contains(r)) System.out.println("t는 r을 포함합니다.");
+//		if(t.contains(s)) System.out.println("t는 s를 포함합니다.");
 	}
 
 }
