@@ -11,7 +11,7 @@ public class PrimeNumber {
 				}
 			}
 			if(j==i) {
-				System.out.println(i+"는 소수");
+				System.out.print(i+"는 소수\t");
 			}
 		}
 
